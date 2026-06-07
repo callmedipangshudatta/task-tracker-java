@@ -1,3 +1,0 @@
-Java follows :- 
-
-Write Code -> Compile -> Run -> Test -> Repeat
